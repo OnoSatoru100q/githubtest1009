@@ -13,6 +13,6 @@ public class Githubtest : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("‚Æ‚ñ‚©‚Â‚¶‚á‚È‚­‚Ä‚µ‚ß‚©‚Â");
     }
 }
